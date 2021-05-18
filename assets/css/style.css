@@ -88,12 +88,12 @@ padding:0px;
 }
 
     .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-        color: #000;
+        color: rgb(150, 141, 141);
         text-decoration: none;
     }
 
 .navbar-default {
-    background-color: #FF2276;
+    background-color: #000000;
     border-color: transparent;
 }
 /* ADDED PADDING IN NAVBAR */
@@ -124,7 +124,7 @@ padding:0px;
  ============================================================ */
 
 #header {
-    background: url(../img/home.jpg) no-repeat center center;
+    background: url(../img/cabecera.png) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -144,7 +144,7 @@ padding:0px;
         font-weight: 900;
         padding-top: 180px;
         padding-bottom: 35px;
-        color: #FF2276;
+        color: #ffffff;
     }
 
 
@@ -165,7 +165,7 @@ padding:0px;
     #services i {
         font-size: 80px;
         padding: 30px;
-        color: #FF2276;
+        color: #000000;
     }
 
     #services h4 {
