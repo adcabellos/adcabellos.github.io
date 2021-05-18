@@ -40,11 +40,11 @@ section {
 }
 
 .set-bk-clr {
-    background-color: #FF2276;
+    background-color: #970808;
 }
 
 .clr-set {
-    color: #FF2276;
+    color: #970808;
 }
 
 .f-big {
@@ -124,7 +124,7 @@ padding:0px;
  ============================================================ */
 
 #header {
-    background: url(../img/cabecera.png) no-repeat center center;
+    /* background: url(../img/cabecera.png) no-repeat center center; */
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
