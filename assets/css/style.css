@@ -630,6 +630,21 @@ section {
 /*--------------------------------------------------------------
 # My Resume
 --------------------------------------------------------------*/
+
+/* .resume .resume-item li {
+  list-style-type: none;
+  padding-left: 0;
+} */
+
+.resume .resume-item p i {
+  font-size: 16px;
+    margin-right: 5px;
+    color: #ffb727;
+    line-height: 0;
+}
+
+
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -665,11 +680,11 @@ section {
 
 .resume .resume-item ul {
   padding-left: 20px;
-}
+} 
 
 .resume .resume-item ul li {
   padding-bottom: 10px;
-}
+} 
 
 .resume .resume-item:last-child {
   padding-bottom: 0;
